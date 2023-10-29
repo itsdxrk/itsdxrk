@@ -6,7 +6,7 @@ I code stuff. I may not code well, but I code.
 
 - 📫 How to reach me: Discord - itsdxrk
 - 😄 Pronouns: He/Him
-- 
+  
 <!--
 **itsdxrk/itsdxrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
